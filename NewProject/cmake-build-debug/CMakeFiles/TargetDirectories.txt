@@ -1,0 +1,3 @@
+/Volumes/디스크/객체지향/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir
+/Volumes/디스크/객체지향/NewProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/디스크/객체지향/NewProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
